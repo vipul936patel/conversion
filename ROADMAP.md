@@ -1,6 +1,8 @@
 #
 Test and Fix bugs
 #
+Add test cases
+#
 Optimize code for prod
 #
 Create custom components for dropdown , text input and buttons so that could be resused if required.
