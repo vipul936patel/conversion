@@ -1,6 +1,8 @@
 #
 Test and Fix bugs
 #
+Optimize code for prod
+#
 Create custom components for dropdown , text input and buttons so that could be resused if required.
 #
 Add chart for time Vs Conversion rate for each side
